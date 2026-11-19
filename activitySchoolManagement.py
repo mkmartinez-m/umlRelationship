@@ -5,4 +5,6 @@ class Person:
 
 person1 = Person("Lina", 30)
 print(f"Name: {person1.name}, Age: {person1.age}")
+print()
+print()
 
